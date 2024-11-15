@@ -5,5 +5,12 @@
     "tipo": "perro",
     "color": "blanco",
     "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Nico",
+    "edad": "7 años",
+    "tipo": "perro",
+    "color": "negro",
+    "enfermedad": "parvovirus"
   }
 ]
